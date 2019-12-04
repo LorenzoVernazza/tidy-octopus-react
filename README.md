@@ -1,2 +1,2 @@
-# tidy-octopus-react
- Essential ESLint configuration, extended for React
+# Tidy Octopus - React
+:octopus: Essential ESLint configuration, extended for React.
