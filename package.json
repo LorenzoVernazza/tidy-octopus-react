@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tidy-octopus-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Essential ESLint configuration, extended for React.",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "peerDependencies": {
     "eslint": ">= 6",
+    "babel-eslint": ">= 10",
     "eslint-plugin-react": "^>= 7.17"
   },
   "keywords": [
@@ -28,7 +29,6 @@
   },
   "homepage": "https://github.com/LorenzoVernazza/tidy-octopus-react#readme",
   "dependencies": {
-    "eslint-config-tidy-octopus": "^0.1.2",
-    "babel-eslint": "^10.0.3"
+    "eslint-config-tidy-octopus": "^0.1.2"
   }
 }
