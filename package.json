@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-tidy-octopus-react",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Essential ESLint configuration, extended for React.",
   "main": "index.js",
   "scripts": {
-    "test": "node ."
+    "test": "node --eval console.log(require('.'))"
   },
   "repository": {
     "type": "git",

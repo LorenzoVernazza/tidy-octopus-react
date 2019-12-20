@@ -1,8 +1,8 @@
 module.exports = {
     rules: {
-        ...(require('./essentials')),
-        ...(require('./lifecycle')),
-        ...(require('./react')),
-        ...(require('./style'))
+        ...(require('./essentials').rules),
+        ...(require('./lifecycle').rules),
+        ...(require('./react').rules),
+        ...(require('./style').rules)
     }
 }
