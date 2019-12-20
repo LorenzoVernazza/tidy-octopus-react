@@ -8,7 +8,7 @@ module.exports = {
         }
     },
     plugins: [
-        react
+        'react'
     ],
     env: {
         es6: true,
