@@ -3,9 +3,9 @@ module.exports = {
         "jsx-quotes": [2, "prefer-single"],
         "react/jsx-tag-spacing": [1, {
             "closingSlash": "never",
-            "beforeSelfClosing": "always",
+            "beforeSelfClosing": "never",
             "afterOpening": "never",
-            "beforeClosing": "allow"
+            "beforeClosing": "never"
         }],
         "react/jsx-boolean-value": 1,
         "react/jsx-closing-bracket-location": [1, "line-aligned"],

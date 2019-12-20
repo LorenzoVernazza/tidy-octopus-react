@@ -24,3 +24,4 @@ Rules:
 | [react/jsx-uses-vars](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-uses-vars.md) | essentials | *error* | Prevent variables used in JSX to be incorrectly marked as unused |
 | [react/react-in-jsx-scope](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/react-in-jsx-scope.md) | essentials | *error* |  Prevent missing `React` when using JSX |
 | [react/jsx-no-undef](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-undef.md) | essentials | *error* |  Disallow undeclared variables in JSX |
+| ... | ... | ... | ...
